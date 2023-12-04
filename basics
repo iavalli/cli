@@ -1,0 +1,4 @@
+# sorts file content in alpabet order and returns firsst 2 lines
+
+sort languages | head -n 2
+
