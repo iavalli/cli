@@ -1,0 +1,10 @@
+# Atraining task from Hexlet Git course. Creates files, adds text to them, commits to git branch
+
+/usr/src/app$ cd code-user
+/usr/src/app/code-user$ echo "Hello, Hexlet!" > hexlet.txt
+/usr/src/app/code-user$ echo "<h1>Мама, я коммичу</h1>" > index.html
+/usr/src/app/code-user$ git init
+/usr/src/app/code-user$ git add hexlet.txt
+/usr/src/app/code-user$ git commit -m "add hexlet.txt"
+/usr/src/app/code-user$ git add index.html
+/usr/src/app/code-user$ git commit -m "add index.html"
